@@ -25,6 +25,7 @@ import java.io.InputStream;
 import java.io.InterruptedIOException;
 import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Arrays;
 
 import polimi.trex.common.SubscriptionsTable;
 import polimi.trex.marshalling.BufferedPacketUnmarshaller;
@@ -91,13 +92,21 @@ public class PacketReader implements Runnable {
 	public void run() {
 		
 		try {
+			int numPackets = 0;
+			int timeout = 60;
+			long start = System.nanoTime();
+
 			while (true) {
+
 				try {
 					// Read bytes from input stream
 					int numRead= inputStream.read(buffer);
 					if (numRead < 0) throw new IOException("End of stream reached");
 					
 					TRexPkt[] pkts= unmarshaller.unmarshal(buffer, 0, numRead);
+
+					numPackets += pkts.length;
+
 					boolean matched = true;
 					synchronized (listeners) {
 						for (TRexPkt pkt: pkts){
@@ -116,8 +125,21 @@ public class PacketReader implements Runnable {
 						}
 						
 					}
+
 				} catch (InterruptedIOException e) {
 					// timeout for blocking receive expired: do nothing
+				}
+
+				long end = System.nanoTime();
+				double elapsed = (end - start)/1e9; 
+
+				if(elapsed >= timeout){
+					double throughput = numPackets/elapsed;
+					System.out.println("Throughput: " + throughput + " pkt/s measured after " + timeout + "seconds");
+					synchronized(this){
+						running = false;
+						break;
+					}
 				}
 				// Check whether it should stop
 				synchronized (this) {
