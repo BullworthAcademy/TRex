@@ -22,5 +22,6 @@
 #include "Test/RuleR1.hpp"
 #include "Test/TestResultListener.hpp"
 #include "Test/TestRule.hpp"
+#include "Test/TimeListener.hpp"
 
 #endif /* TEST_HPP_ */

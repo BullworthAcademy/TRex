@@ -20,6 +20,8 @@
 
 #include "TRexEngine.h"
 #include <sys/time.h>
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -231,6 +233,8 @@ void TRexEngine::processPubPkt(PubPkt* pkt, bool recursion) {
   gettimeofday(&tValEnd, NULL);
   double duration = (tValEnd.tv_sec - tValStart.tv_sec) * 1000000 +
                     tValEnd.tv_usec - tValStart.tv_usec;
+      
+    
 
   // Notifies results to listeners
   for (set<ResultListener*>::iterator it = resultListeners.begin();

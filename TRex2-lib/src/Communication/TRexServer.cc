@@ -19,6 +19,8 @@
 //
 
 #include "TRexServer.h"
+#include <iostream>
+#include <fstream>
 
 using namespace std;
 
@@ -261,6 +263,14 @@ void TRexServer::readFromOutputQueue() {
 }
 
 void TRexServer::handleResult(set<PubPkt*>& genPkts, double procTime) {
+  cout << "Mean proc time" << procTime;
+    
+  std::ofstream outfile ("test.txt");
+
+  outfile << "Mean proc time" << procTime;
+
+  outfile.close();
+    
   for (set<PubPkt*>::iterator it = genPkts.begin(); it != genPkts.end(); ++it) {
     PubPkt* pkt = *it;
     set<int>* subClients = new set<int>;

@@ -22,6 +22,7 @@
 #include "../external.hpp"
 #include "../connection.hpp"
 #include "../util.hpp"
+#include "../test.hpp"
 
 namespace concept{
 namespace server{

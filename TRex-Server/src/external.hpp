@@ -63,6 +63,7 @@
 // TRex
 #include <Common/Consts.h>
 #include <Engine/TRexEngine.h>
+#include <Engine/ResultListener.h>
 #ifdef HAVE_GTREX
 #include <Engine/GPU/GPUEngine.h>
 #endif

@@ -186,7 +186,7 @@ public class CommandLineClient implements PacketListener {
 	    return;
 	}
 	PubPkt pub = (PubPkt) pkt;
-	/* System.out.print("PubPacket received: {");
+	System.out.print("PubPacket received: {");
 	System.out.print(pub.getEventType());
 	for(Attribute att : pub.getAttributes()) {
 	    System.out.print(" <"+att.getName());
@@ -198,7 +198,7 @@ public class CommandLineClient implements PacketListener {
 	    }
 	}
 	System.out.print("}@");
-	System.out.println(new Date(pub.getTimeStamp()).toLocaleString()); */
+	System.out.println(new Date(pub.getTimeStamp()).toLocaleString());
     }
     @Override
     public void notifyConnectionError() {

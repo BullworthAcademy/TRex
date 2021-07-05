@@ -20,7 +20,7 @@ bin_PROGRAMS = TRexServer
 TRexServer_SOURCES = Connection/Connection.cpp Connection/ConnectionProxy.cpp Connection/PubPktListener.cpp Connection/RequestHandler.cpp Connection/SubscriptionTable.cpp \
 	Packet/BufferedPacketUnmarshaller.cpp Packet/PacketMarshaller.cpp Packet/PingPkt.cpp Packet/UnSubPkt.cpp \
 	Server/SOEPServer.cpp \
-	Test/RuleR0.cpp Test/RuleR1.cpp Test/TestResultListener.cpp \
+	Test/RuleR0.cpp Test/RuleR1.cpp Test/TestResultListener.cpp Test/TimeListener.cpp \
 	Util/TRexUtils.cpp Util/Logging.cpp \
 	Main.cpp
 	
