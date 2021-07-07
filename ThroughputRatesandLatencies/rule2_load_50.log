@@ -1,778 +1,1227 @@
-Latency: 300ms
-Throughput rate: 0Pkt/s
-Latency: 434ms
-Latency: 323ms
-Throughput rate: 0Pkt/s
-Latency: 327ms
-Latency: 323ms
-Throughput rate: 0Pkt/s
-Latency: 304ms
-Latency: 322ms
-Throughput rate: 0Pkt/s
-Latency: 294ms
-Latency: 325ms
-Throughput rate: 0Pkt/s
-Latency: 305ms
-Latency: 323ms
-Throughput rate: 0Pkt/s
-Latency: 294ms
-Latency: 288ms
-Throughput rate: 0Pkt/s
-Latency: 319ms
-Latency: 327ms
-Throughput rate: 0.561114Pkt/s
-Latency: 331ms
-Latency: 322ms
-Throughput rate: 0Pkt/s
-Latency: 292ms
-Latency: 293ms
-Throughput rate: 0Pkt/s
-Latency: 350ms
-Latency: 351ms
-Throughput rate: 0Pkt/s
-Latency: 364ms
-Latency: 319ms
-Throughput rate: 0.076301Pkt/s
-Latency: 480ms
-Latency: 409ms
-Throughput rate: 0Pkt/s
-Latency: 338ms
-Latency: 351ms
-Throughput rate: 0.228569Pkt/s
-Latency: 274ms
-Latency: 291ms
-Throughput rate: 0Pkt/s
-Latency: 342ms
-Latency: 293ms
-Throughput rate: 0Pkt/s
-Latency: 303ms
-Latency: 463ms
-Throughput rate: 0.557542Pkt/s
-Latency: 327ms
-Latency: 341ms
-Throughput rate: 0.424169Pkt/s
-Latency: 384ms
-Latency: 269ms
+Latency: 432ms
 Throughput rate: 0Pkt/s
 Latency: 295ms
-Latency: 326ms
-Throughput rate: 0.556252Pkt/s
-Latency: 288ms
-Latency: 275ms
+Latency: 333ms
 Throughput rate: 0Pkt/s
-Latency: 572ms
-Latency: 399ms
-Throughput rate: 0.385037Pkt/s
-Latency: 331ms
-Latency: 420ms
-Throughput rate: 0.359507Pkt/s
-Latency: 339ms
-Latency: 346ms
-Throughput rate: 0.447455Pkt/s
-Latency: 401ms
-Latency: 321ms
-Throughput rate: 0.421951Pkt/s
-Latency: 443ms
-Latency: 344ms
-Throughput rate: 0Pkt/s
-Latency: 352ms
-Latency: 351ms
-Throughput rate: 0.320723Pkt/s
-Latency: 294ms
-Latency: 341ms
-Throughput rate: 0Pkt/s
-Latency: 338ms
-Latency: 325ms
-Throughput rate: 0Pkt/s
-Latency: 328ms
-Latency: 287ms
-Throughput rate: 0Pkt/s
-Latency: 287ms
-Latency: 349ms
-Throughput rate: 0.438975Pkt/s
-Latency: 324ms
-Latency: 331ms
-Throughput rate: 0Pkt/s
-Latency: 267ms
-Latency: 288ms
-Throughput rate: 0Pkt/s
-Latency: 403ms
 Latency: 334ms
+Latency: 353ms
+Throughput rate: 0Pkt/s
+Latency: 314ms
+Latency: 312ms
+Throughput rate: 0Pkt/s
+Latency: 350ms
+Latency: 305ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 352ms
+Throughput rate: 0Pkt/s
+Latency: 340ms
+Latency: 292ms
+Throughput rate: 0Pkt/s
+Latency: 292ms
+Latency: 316ms
+Throughput rate: 0Pkt/s
+Latency: 314ms
+Latency: 443ms
+Throughput rate: 0.418905Pkt/s
+Latency: 306ms
+Latency: 284ms
+Throughput rate: 0Pkt/s
+Latency: 279ms
+Latency: 360ms
+Throughput rate: 0.271883Pkt/s
+Latency: 280ms
+Latency: 342ms
+Throughput rate: 0Pkt/s
+Latency: 275ms
+Latency: 387ms
+Throughput rate: 0.66121Pkt/s
+Latency: 291ms
+Latency: 340ms
 Throughput rate: 0Pkt/s
 Latency: 290ms
-Latency: 489ms
-Throughput rate: 0.594067Pkt/s
-Latency: 348ms
-Latency: 370ms
-Throughput rate: 0.38114Pkt/s
-Latency: 327ms
-Latency: 409ms
-Throughput rate: 0.355894Pkt/s
-Latency: 277ms
-Latency: 319ms
-Throughput rate: 0.418041Pkt/s
-Latency: 408ms
-Latency: 334ms
-Throughput rate: 0Pkt/s
-Latency: 341ms
-Latency: 265ms
-Throughput rate: 0Pkt/s
-Latency: 291ms
-Latency: 379ms
-Throughput rate: 0.37978Pkt/s
-Latency: 284ms
-Latency: 420ms
-Throughput rate: 0.354634Pkt/s
-Latency: 419ms
-Latency: 297ms
-Throughput rate: 0Pkt/s
-Latency: 317ms
-Latency: 351ms
-Throughput rate: 0.453515Pkt/s
-Latency: 354ms
-Latency: 309ms
-Throughput rate: 0Pkt/s
-Latency: 338ms
-Latency: 488ms
-Throughput rate: 0.54592Pkt/s
-Latency: 318ms
-Latency: 336ms
-Throughput rate: 0Pkt/s
-Latency: 346ms
-Latency: 276ms
-Throughput rate: 0Pkt/s
-Latency: 379ms
-Latency: 302ms
-Throughput rate: 0Pkt/s
-Latency: 314ms
-Latency: 389ms
-Throughput rate: 0.54437Pkt/s
-Latency: 336ms
-Latency: 373ms
-Throughput rate: 0Pkt/s
-Latency: 484ms
-Latency: 285ms
-Throughput rate: 0Pkt/s
-Latency: 323ms
-Latency: 312ms
-Throughput rate: 0Pkt/s
-Latency: 292ms
-Latency: 503ms
-Throughput rate: 0.351617Pkt/s
-Latency: 333ms
-Latency: 325ms
-Throughput rate: 0Pkt/s
-Latency: 335ms
-Latency: 297ms
-Throughput rate: 0Pkt/s
-Latency: 386ms
-Latency: 408ms
-Throughput rate: 0.350872Pkt/s
-Latency: 339ms
-Latency: 345ms
-Throughput rate: 0Pkt/s
-Latency: 306ms
-Latency: 462ms
-Throughput rate: 0.596302Pkt/s
-Latency: 338ms
-Latency: 337ms
-Throughput rate: 0.583539Pkt/s
-Latency: 443ms
-Latency: 393ms
-Throughput rate: 0Pkt/s
-Latency: 327ms
-Latency: 311ms
-Throughput rate: 0Pkt/s
-Latency: 315ms
-Latency: 311ms
-Throughput rate: 0Pkt/s
-Latency: 284ms
-Latency: 320ms
-Throughput rate: 0Pkt/s
-Latency: 336ms
-Latency: 327ms
-Throughput rate: 0Pkt/s
-Latency: 314ms
-Latency: 383ms
-Throughput rate: 0.373118Pkt/s
-Latency: 304ms
-Latency: 337ms
-Throughput rate: 0.592917Pkt/s
-Latency: 570ms
-Latency: 321ms
-Throughput rate: 0.580236Pkt/s
-Latency: 348ms
-Latency: 461ms
-Throughput rate: 0.537106Pkt/s
-Latency: 362ms
-Latency: 462ms
-Throughput rate: 0.57939Pkt/s
-Latency: 278ms
-Latency: 327ms
-Throughput rate: 0Pkt/s
-Latency: 268ms
-Latency: 419ms
-Throughput rate: 0.40196Pkt/s
-Latency: 414ms
-Latency: 510ms
-Throughput rate: 0.578195Pkt/s
-Latency: 374ms
-Latency: 314ms
-Throughput rate: 0Pkt/s
-Latency: 368ms
-Latency: 354ms
-Throughput rate: 0Pkt/s
-Latency: 324ms
-Latency: 330ms
-Throughput rate: 0.576981Pkt/s
-Latency: 328ms
-Latency: 326ms
-Throughput rate: 0.552253Pkt/s
-Latency: 283ms
-Latency: 362ms
-Throughput rate: 0.533678Pkt/s
-Latency: 284ms
-Latency: 322ms
-Throughput rate: 0.551504Pkt/s
-Latency: 542ms
-Latency: 393ms
-Throughput rate: 0.532965Pkt/s
-Latency: 274ms
-Latency: 366ms
-Throughput rate: 0.351018Pkt/s
-Latency: 326ms
-Latency: 321ms
-Throughput rate: 0Pkt/s
-Latency: 349ms
-Latency: 350ms
-Throughput rate: 0.574148Pkt/s
-Latency: 359ms
-Latency: 535ms
-Throughput rate: 0.531488Pkt/s
-Latency: 346ms
-Latency: 329ms
-Throughput rate: 0Pkt/s
-Latency: 271ms
-Latency: 399ms
-Throughput rate: 0.482431Pkt/s
-Latency: 611ms
-Latency: 503ms
-Throughput rate: 0.530282Pkt/s
-Latency: 299ms
-Latency: 311ms
-Throughput rate: 0Pkt/s
-Latency: 353ms
-Latency: 396ms
-Throughput rate: 0Pkt/s
-Latency: 355ms
-Latency: 409ms
-Throughput rate: 0.366828Pkt/s
-Latency: 361ms
-Latency: 354ms
-Throughput rate: 0Pkt/s
-Latency: 345ms
-Latency: 462ms
-Throughput rate: 0.570434Pkt/s
 Latency: 305ms
-Latency: 371ms
-Throughput rate: 0.366023Pkt/s
-Latency: 457ms
-Latency: 269ms
 Throughput rate: 0Pkt/s
-Latency: 362ms
-Latency: 363ms
-Throughput rate: 0.365509Pkt/s
-Latency: 306ms
-Latency: 367ms
-Throughput rate: 0.365271Pkt/s
-Latency: 277ms
+Latency: 356ms
+Latency: 316ms
+Throughput rate: 0Pkt/s
+Latency: 394ms
 Latency: 322ms
-Throughput rate: 0Pkt/s
-Latency: 328ms
-Latency: 330ms
-Throughput rate: 0.568131Pkt/s
-Latency: 324ms
-Latency: 339ms
-Throughput rate: 0Pkt/s
-Latency: 278ms
+Throughput rate: 0.270627Pkt/s
+Latency: 477ms
 Latency: 434ms
-Throughput rate: 0.39416Pkt/s
-Latency: 267ms
-Latency: 267ms
-Throughput rate: 0Pkt/s
-Latency: 325ms
-Latency: 421ms
-Throughput rate: 0.393652Pkt/s
-Latency: 325ms
-Latency: 331ms
-Throughput rate: 0.57813Pkt/s
-Latency: 337ms
-Latency: 499ms
-Throughput rate: 0.565823Pkt/s
-Latency: 413ms
-Latency: 456ms
-Throughput rate: 0.565434Pkt/s
-Latency: 393ms
-Latency: 606ms
-Throughput rate: 0.565014Pkt/s
-Latency: 619ms
-Latency: 476ms
-Throughput rate: 0.362496Pkt/s
-Latency: 315ms
-Latency: 369ms
-Throughput rate: 0Pkt/s
-Latency: 402ms
-Latency: 375ms
-Throughput rate: 0Pkt/s
-Latency: 329ms
-Latency: 425ms
-Throughput rate: 0.391306Pkt/s
-Latency: 368ms
-Latency: 340ms
-Throughput rate: 0Pkt/s
-Latency: 282ms
-Latency: 303ms
-Throughput rate: 0Pkt/s
-Latency: 425ms
-Latency: 395ms
-Throughput rate: 0.562045Pkt/s
-Latency: 276ms
-Latency: 341ms
-Throughput rate: 0Pkt/s
-Latency: 331ms
-Latency: 445ms
-Throughput rate: 0.573105Pkt/s
-Latency: 408ms
-Latency: 576ms
-Throughput rate: 0.572667Pkt/s
-Latency: 333ms
-Latency: 289ms
-Throughput rate: 0Pkt/s
+Throughput rate: 0.637882Pkt/s
+Latency: 328ms
 Latency: 332ms
-Latency: 431ms
-Throughput rate: 0.507005Pkt/s
-Latency: 315ms
-Latency: 286ms
 Throughput rate: 0Pkt/s
-Latency: 320ms
-Latency: 388ms
-Throughput rate: 0.435678Pkt/s
-Latency: 384ms
-Latency: 299ms
-Throughput rate: 0Pkt/s
-Latency: 378ms
-Latency: 319ms
-Throughput rate: 0Pkt/s
-Latency: 510ms
-Latency: 529ms
-Throughput rate: 0.43476Pkt/s
-Latency: 539ms
-Latency: 341ms
-Throughput rate: 0Pkt/s
-Latency: 360ms
-Latency: 320ms
-Throughput rate: 0.469306Pkt/s
-Latency: 478ms
-Latency: 374ms
-Throughput rate: 0.433827Pkt/s
-Latency: 533ms
-Latency: 348ms
-Throughput rate: 0Pkt/s
-Latency: 309ms
-Latency: 313ms
-Throughput rate: 0Pkt/s
-Latency: 324ms
-Latency: 273ms
-Throughput rate: 0Pkt/s
-Latency: 393ms
-Latency: 447ms
-Throughput rate: 0.502846Pkt/s
-Latency: 291ms
-Latency: 316ms
-Throughput rate: 0Pkt/s
-Latency: 297ms
-Latency: 338ms
-Throughput rate: 0Pkt/s
-Latency: 314ms
-Latency: 304ms
-Throughput rate: 0Pkt/s
-Latency: 341ms
-Latency: 390ms
-Throughput rate: 0Pkt/s
-Latency: 355ms
-Latency: 315ms
-Throughput rate: 0Pkt/s
-Latency: 346ms
-Latency: 374ms
-Throughput rate: 0.564831Pkt/s
-Latency: 384ms
-Latency: 355ms
-Throughput rate: 0Pkt/s
-Latency: 331ms
-Latency: 458ms
-Throughput rate: 0.552413Pkt/s
-Latency: 433ms
-Latency: 310ms
-Throughput rate: 0Pkt/s
-Latency: 246ms
-Latency: 494ms
-Throughput rate: 0.551689Pkt/s
-Latency: 362ms
-Latency: 309ms
-Throughput rate: 0Pkt/s
-Latency: 325ms
-Latency: 390ms
-Throughput rate: 0Pkt/s
-Latency: 294ms
-Latency: 454ms
-Throughput rate: 0.49837Pkt/s
-Latency: 323ms
-Latency: 307ms
-Throughput rate: 0Pkt/s
-Latency: 322ms
-Latency: 362ms
-Throughput rate: 0.5498Pkt/s
-Latency: 403ms
-Latency: 279ms
-Throughput rate: 0Pkt/s
-Latency: 267ms
-Latency: 535ms
-Throughput rate: 0.427685Pkt/s
-Latency: 338ms
-Latency: 410ms
-Throughput rate: 0Pkt/s
-Latency: 285ms
-Latency: 334ms
-Throughput rate: 0Pkt/s
-Latency: 319ms
-Latency: 491ms
-Throughput rate: 0.548029Pkt/s
-Latency: 348ms
-Latency: 333ms
-Throughput rate: 0.524619Pkt/s
-Latency: 259ms
-Latency: 330ms
-Throughput rate: 0Pkt/s
-Latency: 431ms
-Latency: 287ms
-Throughput rate: 0Pkt/s
-Latency: 338ms
-Latency: 341ms
-Throughput rate: 0.523593Pkt/s
-Latency: 313ms
-Latency: 298ms
-Throughput rate: 0Pkt/s
-Latency: 338ms
-Latency: 304ms
-Throughput rate: 0Pkt/s
-Latency: 312ms
-Latency: 337ms
-Throughput rate: 0Pkt/s
-Latency: 343ms
-Latency: 538ms
-Throughput rate: 0.556618Pkt/s
-Latency: 306ms
-Latency: 303ms
-Throughput rate: 0Pkt/s
-Latency: 354ms
-Latency: 511ms
-Throughput rate: 0.544412Pkt/s
-Latency: 420ms
-Latency: 287ms
-Throughput rate: 0Pkt/s
-Latency: 344ms
-Latency: 302ms
-Throughput rate: 0Pkt/s
-Latency: 292ms
-Latency: 344ms
-Throughput rate: 0Pkt/s
-Latency: 368ms
-Latency: 360ms
-Throughput rate: 0.554485Pkt/s
-Latency: 334ms
-Latency: 326ms
-Throughput rate: 0Pkt/s
-Latency: 462ms
 Latency: 347ms
-Throughput rate: 0.542366Pkt/s
-Latency: 397ms
-Latency: 285ms
-Throughput rate: 0Pkt/s
-Latency: 313ms
-Latency: 328ms
-Throughput rate: 0Pkt/s
-Latency: 361ms
-Latency: 400ms
-Throughput rate: 0.489988Pkt/s
-Latency: 313ms
-Latency: 306ms
-Throughput rate: 0Pkt/s
-Latency: 312ms
-Latency: 419ms
-Throughput rate: 0.489389Pkt/s
-Latency: 329ms
-Latency: 482ms
-Throughput rate: 0.551597Pkt/s
-Latency: 448ms
-Latency: 350ms
-Throughput rate: 0Pkt/s
-Latency: 440ms
-Latency: 386ms
-Throughput rate: 0Pkt/s
-Latency: 359ms
-Latency: 315ms
-Throughput rate: 0Pkt/s
-Latency: 335ms
-Latency: 408ms
-Throughput rate: 0.550144Pkt/s
-Latency: 328ms
-Latency: 318ms
-Throughput rate: 0Pkt/s
-Latency: 412ms
-Latency: 313ms
-Throughput rate: 0Pkt/s
-Latency: 387ms
-Latency: 340ms
-Throughput rate: 0Pkt/s
-Latency: 498ms
-Latency: 273ms
-Throughput rate: 0Pkt/s
-Latency: 450ms
-Latency: 378ms
-Throughput rate: 0.503069Pkt/s
-Latency: 303ms
-Latency: 578ms
-Throughput rate: 0.485812Pkt/s
-Latency: 328ms
-Latency: 491ms
-Throughput rate: 0.5476Pkt/s
-Latency: 342ms
-Latency: 371ms
-Throughput rate: 0.547248Pkt/s
-Latency: 501ms
-Latency: 324ms
-Throughput rate: 0Pkt/s
-Latency: 401ms
-Latency: 428ms
-Throughput rate: 0.484551Pkt/s
-Latency: 507ms
-Latency: 340ms
-Throughput rate: 0.534926Pkt/s
-Latency: 316ms
-Latency: 335ms
-Throughput rate: 0.500834Pkt/s
-Latency: 352ms
-Latency: 484ms
-Throughput rate: 0.534252Pkt/s
-Latency: 300ms
-Latency: 435ms
-Throughput rate: 0.415878Pkt/s
-Latency: 312ms
-Latency: 330ms
-Throughput rate: 0Pkt/s
+Latency: 414ms
+Throughput rate: 0.657616Pkt/s
 Latency: 349ms
-Latency: 341ms
-Throughput rate: 0.482701Pkt/s
-Latency: 432ms
-Latency: 274ms
+Latency: 321ms
+Throughput rate: 0Pkt/s
+Latency: 291ms
+Latency: 414ms
+Throughput rate: 0.414677Pkt/s
+Latency: 337ms
+Latency: 357ms
+Throughput rate: 0.352208Pkt/s
+Latency: 367ms
+Latency: 332ms
+Throughput rate: 0.331246Pkt/s
+Latency: 300ms
+Latency: 333ms
 Throughput rate: 0Pkt/s
 Latency: 332ms
-Latency: 446ms
-Throughput rate: 0.414811Pkt/s
+Latency: 356ms
+Throughput rate: 0Pkt/s
 Latency: 326ms
-Latency: 300ms
+Latency: 272ms
 Throughput rate: 0Pkt/s
-Latency: 487ms
-Latency: 352ms
-Throughput rate: 0.531827Pkt/s
-Latency: 420ms
-Latency: 350ms
+Latency: 335ms
+Latency: 285ms
 Throughput rate: 0Pkt/s
-Latency: 280ms
-Latency: 510ms
-Throughput rate: 0.54235Pkt/s
-Latency: 430ms
-Latency: 362ms
-Throughput rate: 0.480545Pkt/s
-Latency: 275ms
-Latency: 355ms
-Throughput rate: 0Pkt/s
-Latency: 304ms
-Latency: 496ms
-Throughput rate: 0.541347Pkt/s
-Latency: 351ms
-Latency: 278ms
-Throughput rate: 0Pkt/s
-Latency: 398ms
-Latency: 359ms
-Throughput rate: 0Pkt/s
-Latency: 464ms
-Latency: 320ms
-Throughput rate: 0Pkt/s
-Latency: 354ms
+Latency: 342ms
 Latency: 293ms
 Throughput rate: 0Pkt/s
-Latency: 412ms
-Latency: 399ms
-Throughput rate: 0.528516Pkt/s
-Latency: 360ms
-Latency: 367ms
-Throughput rate: 0.478131Pkt/s
-Latency: 329ms
-Latency: 342ms
+Latency: 420ms
+Latency: 309ms
 Throughput rate: 0Pkt/s
-Latency: 475ms
-Latency: 319ms
-Throughput rate: 0Pkt/s
-Latency: 385ms
-Latency: 406ms
-Throughput rate: 0Pkt/s
-Latency: 383ms
-Latency: 273ms
-Throughput rate: 0Pkt/s
-Latency: 249ms
-Latency: 331ms
+Latency: 316ms
+Latency: 345ms
 Throughput rate: 0Pkt/s
 Latency: 328ms
+Latency: 351ms
+Throughput rate: 0.67208Pkt/s
+Latency: 254ms
+Latency: 333ms
+Throughput rate: 0.370059Pkt/s
+Latency: 345ms
+Latency: 316ms
+Throughput rate: 0Pkt/s
+Latency: 348ms
+Latency: 323ms
+Throughput rate: 0Pkt/s
+Latency: 315ms
 Latency: 294ms
 Throughput rate: 0Pkt/s
-Latency: 295ms
-Latency: 448ms
-Throughput rate: 0.509235Pkt/s
-Latency: 320ms
-Latency: 352ms
-Throughput rate: 0.492316Pkt/s
-Latency: 334ms
-Latency: 473ms
-Throughput rate: 0.541736Pkt/s
-Latency: 472ms
-Latency: 345ms
-Throughput rate: 0.52483Pkt/s
-Latency: 314ms
-Latency: 440ms
-Throughput rate: 0.507913Pkt/s
-Latency: 371ms
+Latency: 382ms
+Latency: 311ms
+Throughput rate: 0.36896Pkt/s
+Latency: 281ms
+Latency: 344ms
+Throughput rate: 0.539367Pkt/s
+Latency: 282ms
+Latency: 340ms
+Throughput rate: 0.511686Pkt/s
+Latency: 362ms
+Latency: 387ms
+Throughput rate: 0.668117Pkt/s
+Latency: 434ms
+Latency: 273ms
+Throughput rate: 0Pkt/s
+Latency: 319ms
+Latency: 328ms
+Throughput rate: 0Pkt/s
+Latency: 362ms
+Latency: 301ms
+Throughput rate: 0Pkt/s
+Latency: 292ms
 Latency: 300ms
 Throughput rate: 0Pkt/s
-Latency: 370ms
-Latency: 496ms
-Throughput rate: 0.540357Pkt/s
-Latency: 307ms
-Latency: 381ms
-Throughput rate: 0.490403Pkt/s
-Latency: 312ms
-Latency: 345ms
-Throughput rate: 0.473565Pkt/s
-Latency: 252ms
-Latency: 280ms
-Throughput rate: 0Pkt/s
-Latency: 476ms
-Latency: 414ms
-Throughput rate: 0.522472Pkt/s
-Latency: 317ms
-Latency: 378ms
-Throughput rate: 0.500144Pkt/s
-Latency: 341ms
-Latency: 434ms
-Throughput rate: 0.532762Pkt/s
-Latency: 437ms
-Latency: 542ms
-Throughput rate: 0.406115Pkt/s
-Latency: 346ms
-Latency: 322ms
-Throughput rate: 0Pkt/s
-Latency: 314ms
-Latency: 363ms
-Throughput rate: 0.471299Pkt/s
-Latency: 307ms
-Latency: 302ms
-Throughput rate: 0Pkt/s
-Latency: 480ms
-Latency: 322ms
-Throughput rate: 0Pkt/s
-Latency: 267ms
-Latency: 329ms
-Throughput rate: 0Pkt/s
-Latency: 352ms
-Latency: 492ms
-Throughput rate: 0.502928Pkt/s
-Latency: 355ms
-Latency: 348ms
-Throughput rate: 0Pkt/s
-Latency: 382ms
-Latency: 302ms
-Throughput rate: 0Pkt/s
-Latency: 327ms
-Latency: 454ms
-Throughput rate: 0.501965Pkt/s
-Latency: 316ms
-Latency: 472ms
-Throughput rate: 0Pkt/s
-Latency: 334ms
-Latency: 298ms
-Throughput rate: 0Pkt/s
-Latency: 402ms
-Latency: 347ms
-Throughput rate: 0Pkt/s
-Latency: 320ms
-Latency: 312ms
-Throughput rate: 0Pkt/s
-Latency: 347ms
-Latency: 306ms
-Throughput rate: 0Pkt/s
 Latency: 309ms
-Latency: 288ms
+Latency: 403ms
 Throughput rate: 0Pkt/s
-Latency: 324ms
-Latency: 504ms
-Throughput rate: 0.532388Pkt/s
-Latency: 502ms
-Latency: 450ms
-Throughput rate: 0.499483Pkt/s
-Latency: 386ms
-Latency: 420ms
-Throughput rate: 0.49918Pkt/s
-Latency: 332ms
-Latency: 479ms
-Throughput rate: 0.525998Pkt/s
-Latency: 347ms
-Latency: 304ms
-Throughput rate: 0Pkt/s
-Latency: 321ms
-Latency: 364ms
-Throughput rate: 0Pkt/s
-Latency: 385ms
-Latency: 326ms
+Latency: 544ms
+Latency: 345ms
+Throughput rate: 0.66511Pkt/s
+Latency: 275ms
+Latency: 350ms
 Throughput rate: 0Pkt/s
 Latency: 328ms
-Latency: 340ms
-Throughput rate: 0.5247Pkt/s
-Latency: 391ms
-Latency: 331ms
-Throughput rate: 0Pkt/s
-Latency: 364ms
-Latency: 368ms
-Throughput rate: 0.464607Pkt/s
-Latency: 361ms
-Latency: 431ms
-Throughput rate: 0.496699Pkt/s
-Latency: 396ms
-Latency: 354ms
-Throughput rate: 0Pkt/s
-Latency: 334ms
+Latency: 393ms
+Throughput rate: 0.50828Pkt/s
+Latency: 339ms
+Latency: 473ms
+Throughput rate: 0.582363Pkt/s
+Latency: 477ms
 Latency: 370ms
 Throughput rate: 0Pkt/s
+Latency: 289ms
+Latency: 352ms
+Throughput rate: 0Pkt/s
+Latency: 356ms
+Latency: 379ms
+Throughput rate: 0.668837Pkt/s
+Latency: 326ms
+Latency: 323ms
+Throughput rate: 0.533299Pkt/s
+Latency: 332ms
+Latency: 288ms
+Throughput rate: 0Pkt/s
+Latency: 302ms
+Latency: 353ms
+Throughput rate: 0.660553Pkt/s
+Latency: 339ms
+Latency: 322ms
+Throughput rate: 0.66008Pkt/s
+Latency: 310ms
+Latency: 341ms
+Throughput rate: 0.666299Pkt/s
+Latency: 326ms
+Latency: 366ms
+Throughput rate: 0.638881Pkt/s
+Latency: 279ms
+Latency: 340ms
+Throughput rate: 0.36287Pkt/s
+Latency: 356ms
+Latency: 392ms
+Throughput rate: 0.577467Pkt/s
+Latency: 296ms
+Latency: 344ms
+Throughput rate: 0Pkt/s
+Latency: 440ms
+Latency: 455ms
+Throughput rate: 0.415682Pkt/s
 Latency: 382ms
-Latency: 343ms
-Throughput rate: 0Pkt/s
-Latency: 317ms
-Latency: 309ms
-Throughput rate: 0Pkt/s
+Latency: 456ms
+Throughput rate: 0.415359Pkt/s
+Latency: 282ms
+Latency: 328ms
+Throughput rate: 0.615907Pkt/s
+Latency: 346ms
+Latency: 327ms
+Throughput rate: 0.615467Pkt/s
+Latency: 439ms
+Latency: 356ms
+Throughput rate: 0.661826Pkt/s
+Latency: 447ms
+Latency: 369ms
+Throughput rate: 0.614556Pkt/s
 Latency: 364ms
+Latency: 422ms
+Throughput rate: 0.574068Pkt/s
+Latency: 298ms
+Latency: 292ms
+Throughput rate: 0Pkt/s
+Latency: 383ms
+Latency: 277ms
+Throughput rate: 0Pkt/s
+Latency: 362ms
+Latency: 377ms
+Throughput rate: 0Pkt/s
+Latency: 307ms
+Latency: 427ms
+Throughput rate: 0.632223Pkt/s
+Latency: 521ms
+Latency: 400ms
+Throughput rate: 0.631731Pkt/s
+Latency: 534ms
+Latency: 432ms
+Throughput rate: 0.524964Pkt/s
+Latency: 289ms
+Latency: 359ms
+Throughput rate: 0.657407Pkt/s
+Latency: 359ms
+Latency: 351ms
+Throughput rate: 0.650312Pkt/s
+Latency: 333ms
+Latency: 324ms
+Throughput rate: 0Pkt/s
+Latency: 318ms
+Latency: 420ms
+Throughput rate: 0Pkt/s
+Latency: 324ms
+Latency: 325ms
+Throughput rate: 0.609178Pkt/s
+Latency: 314ms
+Latency: 471ms
+Throughput rate: 0.588892Pkt/s
+Latency: 323ms
+Latency: 298ms
+Throughput rate: 0Pkt/s
+Latency: 408ms
+Latency: 353ms
+Throughput rate: 0.654118Pkt/s
+Latency: 327ms
+Latency: 334ms
+Throughput rate: 0.607382Pkt/s
+Latency: 499ms
+Latency: 291ms
+Throughput rate: 0Pkt/s
+Latency: 431ms
+Latency: 396ms
+Throughput rate: 0.62626Pkt/s
+Latency: 360ms
+Latency: 334ms
+Throughput rate: 0Pkt/s
+Latency: 511ms
+Latency: 414ms
+Throughput rate: 0Pkt/s
+Latency: 486ms
+Latency: 382ms
+Throughput rate: 0.65119Pkt/s
+Latency: 364ms
+Latency: 474ms
+Throughput rate: 0.565225Pkt/s
+Latency: 422ms
+Latency: 306ms
+Throughput rate: 0Pkt/s
+Latency: 276ms
+Latency: 325ms
+Throughput rate: 0Pkt/s
+Latency: 457ms
+Latency: 307ms
+Throughput rate: 0Pkt/s
+Latency: 302ms
+Latency: 770ms
+Throughput rate: 0.517654Pkt/s
+Latency: 342ms
+Latency: 491ms
+Throughput rate: 0.517289Pkt/s
+Latency: 355ms
+Latency: 307ms
+Throughput rate: 0Pkt/s
+Latency: 353ms
+Latency: 381ms
+Throughput rate: 0.621191Pkt/s
+Latency: 300ms
+Latency: 283ms
+Throughput rate: 0Pkt/s
+Latency: 412ms
+Latency: 462ms
+Throughput rate: 0.515785Pkt/s
+Latency: 394ms
+Latency: 305ms
+Throughput rate: 0Pkt/s
+Latency: 333ms
+Latency: 358ms
+Throughput rate: 0Pkt/s
+Latency: 267ms
+Latency: 434ms
+Throughput rate: 0.579801Pkt/s
+Latency: 284ms
+Latency: 335ms
+Throughput rate: 0Pkt/s
+Latency: 359ms
+Latency: 373ms
+Throughput rate: 0Pkt/s
+Latency: 301ms
+Latency: 333ms
+Throughput rate: 0.598024Pkt/s
+Latency: 329ms
+Latency: 299ms
+Throughput rate: 0Pkt/s
+Latency: 314ms
+Latency: 286ms
+Throughput rate: 0Pkt/s
+Latency: 281ms
+Latency: 325ms
+Throughput rate: 0Pkt/s
+Latency: 339ms
+Latency: 366ms
+Throughput rate: 0.63527Pkt/s
+Latency: 339ms
+Latency: 276ms
+Throughput rate: 0Pkt/s
+Latency: 311ms
+Latency: 528ms
+Throughput rate: 0.614929Pkt/s
+Latency: 314ms
+Latency: 284ms
+Throughput rate: 0Pkt/s
+Latency: 304ms
+Latency: 306ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 388ms
+Throughput rate: 0Pkt/s
+Latency: 279ms
+Latency: 343ms
+Throughput rate: 0.632504Pkt/s
+Latency: 403ms
+Latency: 332ms
+Throughput rate: 0.593371Pkt/s
+Latency: 324ms
+Latency: 317ms
+Throughput rate: 0.592929Pkt/s
+Latency: 324ms
+Latency: 374ms
+Throughput rate: 0.631171Pkt/s
+Latency: 384ms
+Latency: 410ms
+Throughput rate: 0.572772Pkt/s
+Latency: 297ms
+Latency: 333ms
+Throughput rate: 0Pkt/s
+Latency: 313ms
+Latency: 347ms
+Throughput rate: 0Pkt/s
+Latency: 423ms
+Latency: 351ms
+Throughput rate: 0.590866Pkt/s
+Latency: 294ms
+Latency: 346ms
+Throughput rate: 0Pkt/s
+Latency: 309ms
+Latency: 278ms
+Throughput rate: 0Pkt/s
+Latency: 437ms
+Latency: 293ms
+Throughput rate: 0Pkt/s
+Latency: 346ms
+Latency: 352ms
+Throughput rate: 0Pkt/s
+Latency: 351ms
+Latency: 510ms
+Throughput rate: 0.595128Pkt/s
+Latency: 343ms
+Latency: 471ms
+Throughput rate: 0Pkt/s
+Latency: 273ms
+Latency: 428ms
+Throughput rate: 0.568766Pkt/s
+Latency: 307ms
+Latency: 479ms
+Throughput rate: 0.593886Pkt/s
+Latency: 301ms
+Latency: 265ms
+Throughput rate: 0Pkt/s
+Latency: 326ms
+Latency: 328ms
+Throughput rate: 0.624982Pkt/s
+Latency: 378ms
+Latency: 409ms
+Throughput rate: 0Pkt/s
+Latency: 347ms
+Latency: 311ms
+Throughput rate: 0Pkt/s
+Latency: 325ms
+Latency: 293ms
+Throughput rate: 0Pkt/s
+Latency: 304ms
+Latency: 334ms
+Throughput rate: 0.58514Pkt/s
+Latency: 326ms
+Latency: 467ms
+Throughput rate: 0.565648Pkt/s
+Latency: 339ms
+Latency: 295ms
+Throughput rate: 0Pkt/s
+Latency: 288ms
+Latency: 407ms
+Throughput rate: 0.545834Pkt/s
+Latency: 304ms
+Latency: 337ms
+Throughput rate: 0.627886Pkt/s
+Latency: 449ms
+Latency: 290ms
+Throughput rate: 0Pkt/s
+Latency: 378ms
+Latency: 344ms
+Throughput rate: 0Pkt/s
+Latency: 491ms
+Latency: 384ms
+Throughput rate: 0.544273Pkt/s
+Latency: 323ms
+Latency: 454ms
+Throughput rate: 0.537551Pkt/s
+Latency: 312ms
+Latency: 347ms
+Throughput rate: 0.581433Pkt/s
+Latency: 311ms
+Latency: 313ms
+Throughput rate: 0Pkt/s
+Latency: 385ms
+Latency: 498ms
+Throughput rate: 0.536467Pkt/s
+Latency: 320ms
+Latency: 285ms
+Throughput rate: 0Pkt/s
+Latency: 349ms
+Latency: 294ms
+Throughput rate: 0Pkt/s
+Latency: 337ms
+Latency: 275ms
+Throughput rate: 0Pkt/s
+Latency: 481ms
+Latency: 336ms
+Throughput rate: 0Pkt/s
+Latency: 307ms
+Latency: 340ms
+Throughput rate: 0.6164Pkt/s
+Latency: 291ms
+Latency: 335ms
+Throughput rate: 0.615975Pkt/s
+Latency: 433ms
+Latency: 307ms
+Throughput rate: 0Pkt/s
+Latency: 442ms
+Latency: 296ms
+Throughput rate: 0Pkt/s
+Latency: 415ms
+Latency: 516ms
+Throughput rate: 0.533134Pkt/s
+Latency: 411ms
 Latency: 327ms
 Throughput rate: 0Pkt/s
-Latency: 461ms
+Latency: 455ms
+Latency: 350ms
+Throughput rate: 0.57627Pkt/s
+Latency: 300ms
+Latency: 510ms
+Throughput rate: 0.58215Pkt/s
+Latency: 505ms
+Latency: 348ms
+Throughput rate: 0Pkt/s
+Latency: 276ms
+Latency: 300ms
+Throughput rate: 0Pkt/s
+Latency: 323ms
+Latency: 346ms
+Throughput rate: 0Pkt/s
+Latency: 574ms
+Latency: 390ms
+Throughput rate: 0.593032Pkt/s
+Latency: 314ms
+Latency: 283ms
+Throughput rate: 0Pkt/s
+Latency: 359ms
+Latency: 327ms
+Throughput rate: 0Pkt/s
+Latency: 420ms
+Latency: 428ms
+Throughput rate: 0.573122Pkt/s
+Latency: 557ms
+Latency: 464ms
+Throughput rate: 0.591382Pkt/s
+Latency: 329ms
+Latency: 331ms
+Throughput rate: 0.609654Pkt/s
+Latency: 314ms
+Latency: 269ms
+Throughput rate: 0Pkt/s
+Latency: 357ms
+Latency: 336ms
+Throughput rate: 0.608818Pkt/s
+Latency: 381ms
+Latency: 311ms
+Throughput rate: 0Pkt/s
+Latency: 359ms
+Latency: 571ms
+Throughput rate: 0.589323Pkt/s
+Latency: 421ms
+Latency: 462ms
+Throughput rate: 0.533058Pkt/s
+Latency: 584ms
+Latency: 439ms
+Throughput rate: 0.576012Pkt/s
+Latency: 327ms
+Latency: 359ms
+Throughput rate: 0Pkt/s
+Latency: 571ms
+Latency: 388ms
+Throughput rate: 0.612349Pkt/s
+Latency: 392ms
+Latency: 313ms
+Throughput rate: 0Pkt/s
+Latency: 345ms
+Latency: 387ms
+Throughput rate: 0.586824Pkt/s
+Latency: 289ms
+Latency: 312ms
+Throughput rate: 0Pkt/s
+Latency: 361ms
+Latency: 340ms
+Throughput rate: 0Pkt/s
+Latency: 355ms
+Latency: 276ms
+Throughput rate: 0Pkt/s
+Latency: 454ms
+Latency: 344ms
+Throughput rate: 0Pkt/s
+Latency: 257ms
+Latency: 297ms
+Throughput rate: 0Pkt/s
+Latency: 316ms
+Latency: 323ms
+Throughput rate: 0Pkt/s
+Latency: 373ms
+Latency: 469ms
+Throughput rate: 0.534812Pkt/s
+Latency: 492ms
+Latency: 273ms
+Throughput rate: 0Pkt/s
+Latency: 353ms
+Latency: 331ms
+Throughput rate: 0.564807Pkt/s
+Latency: 257ms
+Latency: 334ms
+Throughput rate: 0.607383Pkt/s
+Latency: 298ms
+Latency: 354ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 432ms
+Throughput rate: 0.569797Pkt/s
+Latency: 322ms
+Latency: 280ms
+Throughput rate: 0Pkt/s
 Latency: 342ms
-Throughput rate: 0.510949Pkt/s
+Latency: 286ms
+Throughput rate: 0Pkt/s
+Latency: 347ms
+Latency: 490ms
+Throughput rate: 0.568659Pkt/s
+Latency: 435ms
+Latency: 514ms
+Throughput rate: 0.568279Pkt/s
+Latency: 365ms
+Latency: 430ms
+Throughput rate: 0.604517Pkt/s
+Latency: 514ms
+Latency: 318ms
+Throughput rate: 0Pkt/s
+Latency: 343ms
+Latency: 401ms
+Throughput rate: 0Pkt/s
+Latency: 333ms
+Latency: 292ms
+Throughput rate: 0Pkt/s
+Latency: 454ms
+Latency: 451ms
+Throughput rate: 0.566314Pkt/s
+Latency: 285ms
+Latency: 350ms
+Throughput rate: 0Pkt/s
+Latency: 318ms
+Latency: 344ms
+Throughput rate: 0Pkt/s
+Latency: 342ms
+Latency: 401ms
+Throughput rate: 0.577297Pkt/s
+Latency: 382ms
+Latency: 333ms
+Throughput rate: 0.558705Pkt/s
+Latency: 334ms
+Latency: 292ms
+Throughput rate: 0Pkt/s
+Latency: 395ms
+Latency: 478ms
+Throughput rate: 0.563997Pkt/s
+Latency: 318ms
+Latency: 418ms
+Throughput rate: 0.563629Pkt/s
+Latency: 263ms
+Latency: 497ms
+Throughput rate: 0.587494Pkt/s
+Latency: 435ms
+Latency: 477ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 462ms
+Throughput rate: 0.562544Pkt/s
+Latency: 322ms
+Latency: 331ms
+Throughput rate: 0.598454Pkt/s
+Latency: 490ms
+Latency: 541ms
+Throughput rate: 0Pkt/s
+Latency: 385ms
+Latency: 341ms
+Throughput rate: 0.591639Pkt/s
+Latency: 480ms
+Latency: 353ms
+Throughput rate: 0Pkt/s
+Latency: 387ms
+Latency: 273ms
+Throughput rate: 0Pkt/s
+Latency: 351ms
+Latency: 322ms
+Throughput rate: 0Pkt/s
+Latency: 436ms
+Latency: 525ms
+Throughput rate: 0.584106Pkt/s
+Latency: 520ms
+Latency: 312ms
+Throughput rate: 0Pkt/s
+Latency: 310ms
+Latency: 415ms
+Throughput rate: 0.58931Pkt/s
+Latency: 355ms
+Latency: 512ms
+Throughput rate: 0.558862Pkt/s
+Latency: 411ms
+Latency: 311ms
+Throughput rate: 0Pkt/s
+Latency: 504ms
+Latency: 295ms
+Throughput rate: 0Pkt/s
+Latency: 328ms
+Latency: 440ms
+Throughput rate: 0.557773Pkt/s
+Latency: 331ms
+Latency: 327ms
+Throughput rate: 0.551425Pkt/s
+Latency: 312ms
+Latency: 346ms
+Throughput rate: 0.592971Pkt/s
+Latency: 391ms
+Latency: 397ms
+Throughput rate: 0.592597Pkt/s
+Latency: 342ms
+Latency: 308ms
+Throughput rate: 0Pkt/s
+Latency: 325ms
+Latency: 405ms
+Throughput rate: 0.514065Pkt/s
+Latency: 482ms
+Latency: 309ms
+Throughput rate: 0Pkt/s
+Latency: 351ms
+Latency: 357ms
+Throughput rate: 0Pkt/s
+Latency: 352ms
+Latency: 288ms
+Throughput rate: 0Pkt/s
+Latency: 434ms
+Latency: 300ms
+Throughput rate: 0Pkt/s
+Latency: 297ms
+Latency: 312ms
+Throughput rate: 0Pkt/s
+Latency: 325ms
+Latency: 271ms
+Throughput rate: 0Pkt/s
+Latency: 452ms
+Latency: 332ms
+Throughput rate: 0Pkt/s
+Latency: 402ms
+Latency: 377ms
+Throughput rate: 0Pkt/s
+Latency: 280ms
+Latency: 409ms
+Throughput rate: 0.511007Pkt/s
+Latency: 305ms
+Latency: 389ms
+Throughput rate: 0.587885Pkt/s
+Latency: 327ms
+Latency: 324ms
+Throughput rate: 0Pkt/s
+Latency: 345ms
+Latency: 374ms
+Throughput rate: 0.545629Pkt/s
+Latency: 309ms
+Latency: 505ms
+Throughput rate: 0.551177Pkt/s
+Latency: 506ms
+Latency: 385ms
+Throughput rate: 0.580445Pkt/s
+Latency: 304ms
+Latency: 303ms
+Throughput rate: 0Pkt/s
+Latency: 438ms
+Latency: 492ms
+Throughput rate: 0.585627Pkt/s
+Latency: 377ms
+Latency: 309ms
+Throughput rate: 0Pkt/s
+Latency: 282ms
+Latency: 383ms
+Throughput rate: 0.543491Pkt/s
+Latency: 331ms
+Latency: 324ms
+Throughput rate: 0.584444Pkt/s
+Latency: 354ms
+Latency: 499ms
+Throughput rate: 0.554574Pkt/s
+Latency: 321ms
+Latency: 336ms
+Throughput rate: 0.583637Pkt/s
+Latency: 293ms
+Latency: 409ms
+Throughput rate: 0.583273Pkt/s
+Latency: 485ms
+Latency: 497ms
+Throughput rate: 0.547581Pkt/s
+Latency: 294ms
+Latency: 335ms
+Throughput rate: 0Pkt/s
+Latency: 352ms
+Latency: 449ms
+Throughput rate: 0.576289Pkt/s
+Latency: 373ms
+Latency: 322ms
+Throughput rate: 0Pkt/s
+Latency: 335ms
+Latency: 357ms
+Throughput rate: 0.581442Pkt/s
+Latency: 310ms
+Latency: 268ms
+Throughput rate: 0Pkt/s
+Latency: 429ms
+Latency: 334ms
+Throughput rate: 0.58069Pkt/s
+Latency: 386ms
+Latency: 448ms
+Throughput rate: 0.504115Pkt/s
+Latency: 526ms
+Latency: 531ms
+Throughput rate: 0.568205Pkt/s
+Latency: 374ms
+Latency: 276ms
+Throughput rate: 0Pkt/s
+Latency: 330ms
+Latency: 317ms
+Throughput rate: 0Pkt/s
+Latency: 326ms
+Latency: 520ms
+Throughput rate: 0.549614Pkt/s
+Latency: 479ms
+Latency: 315ms
+Throughput rate: 0Pkt/s
+Latency: 453ms
+Latency: 281ms
+Throughput rate: 0Pkt/s
+Latency: 337ms
+Latency: 291ms
+Throughput rate: 0Pkt/s
+Latency: 629ms
+Latency: 470ms
+Throughput rate: 0.501587Pkt/s
+Latency: 299ms
+Latency: 341ms
+Throughput rate: 0Pkt/s
+Latency: 324ms
+Latency: 295ms
+Throughput rate: 0Pkt/s
+Latency: 338ms
+Latency: 323ms
+Throughput rate: 0Pkt/s
+Latency: 327ms
+Latency: 420ms
+Throughput rate: 0.50031Pkt/s
+Latency: 338ms
+Latency: 342ms
+Throughput rate: 0.569766Pkt/s
+Latency: 271ms
+Latency: 324ms
+Throughput rate: 0.575224Pkt/s
+Latency: 374ms
+Latency: 280ms
+Throughput rate: 0Pkt/s
+Latency: 475ms
+Latency: 316ms
+Throughput rate: 0Pkt/s
+Latency: 320ms
+Latency: 285ms
+Throughput rate: 0Pkt/s
+Latency: 486ms
+Latency: 337ms
+Throughput rate: 0Pkt/s
+Latency: 337ms
+Latency: 322ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 278ms
+Throughput rate: 0Pkt/s
+Latency: 319ms
+Latency: 578ms
+Throughput rate: 0.537945Pkt/s
+Latency: 340ms
+Latency: 465ms
+Throughput rate: 0.560703Pkt/s
+Latency: 340ms
+Latency: 352ms
+Throughput rate: 0.571916Pkt/s
+Latency: 389ms
+Latency: 354ms
+Throughput rate: 0Pkt/s
+Latency: 452ms
+Latency: 321ms
+Throughput rate: 0Pkt/s
+Latency: 332ms
+Latency: 292ms
+Throughput rate: 0Pkt/s
+Latency: 288ms
+Latency: 334ms
+Throughput rate: 0Pkt/s
+Latency: 410ms
+Latency: 496ms
+Throughput rate: 0.535576Pkt/s
+Latency: 350ms
+Latency: 319ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 265ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 398ms
+Throughput rate: 0.569052Pkt/s
+Latency: 524ms
+Latency: 617ms
+Throughput rate: 0.557216Pkt/s
+Latency: 385ms
+Latency: 266ms
+Throughput rate: 0Pkt/s
+Latency: 431ms
+Latency: 494ms
+Throughput rate: 0.556541Pkt/s
+Latency: 264ms
+Latency: 429ms
+Throughput rate: 0.493124Pkt/s
+Latency: 336ms
+Latency: 295ms
+Throughput rate: 0Pkt/s
+Latency: 331ms
+Latency: 353ms
+Throughput rate: 0.566944Pkt/s
+Latency: 303ms
+Latency: 389ms
+Throughput rate: 0.560878Pkt/s
+Latency: 311ms
+Latency: 334ms
+Throughput rate: 0Pkt/s
+Latency: 438ms
+Latency: 331ms
+Throughput rate: 0Pkt/s
+Latency: 458ms
+Latency: 310ms
+Throughput rate: 0Pkt/s
+Latency: 462ms
+Latency: 316ms
+Throughput rate: 0Pkt/s
+Latency: 410ms
+Latency: 303ms
+Throughput rate: 0Pkt/s
+Latency: 414ms
+Latency: 519ms
+Throughput rate: 0.558671Pkt/s
+Latency: 279ms
+Latency: 367ms
+Throughput rate: 0.564035Pkt/s
+Latency: 397ms
+Latency: 345ms
+Throughput rate: 0.557996Pkt/s
+Latency: 489ms
+Latency: 335ms
+Throughput rate: 0.529178Pkt/s
+Latency: 333ms
+Latency: 285ms
+Throughput rate: 0Pkt/s
+Latency: 324ms
+Latency: 259ms
+Throughput rate: 0Pkt/s
+Latency: 284ms
+Latency: 404ms
+Throughput rate: 0.556587Pkt/s
+Latency: 347ms
+Latency: 398ms
+Throughput rate: 0.561927Pkt/s
+Latency: 473ms
+Latency: 264ms
+Throughput rate: 0Pkt/s
+Latency: 309ms
+Latency: 475ms
+Throughput rate: 0.487549Pkt/s
+Latency: 323ms
+Latency: 327ms
+Throughput rate: 0.560914Pkt/s
+Latency: 471ms
+Latency: 284ms
+Throughput rate: 0Pkt/s
+Latency: 422ms
+Latency: 390ms
+Throughput rate: 0Pkt/s
+Latency: 540ms
+Latency: 302ms
+Throughput rate: 0Pkt/s
+Latency: 285ms
+Latency: 403ms
+Throughput rate: 0.486036Pkt/s
+Latency: 314ms
+Latency: 329ms
+Throughput rate: 0.553494Pkt/s
+Latency: 491ms
+Latency: 465ms
+Throughput rate: 0.530584Pkt/s
+Latency: 360ms
+Latency: 342ms
+Throughput rate: 0Pkt/s
+Latency: 267ms
+Latency: 496ms
+Throughput rate: 0.529948Pkt/s
+Latency: 422ms
+Latency: 333ms
+Throughput rate: 0Pkt/s
+Latency: 717ms
+Latency: 331ms
+Throughput rate: 0Pkt/s
+Latency: 410ms
+Latency: 287ms
+Throughput rate: 0Pkt/s
+Latency: 412ms
+Latency: 351ms
+Throughput rate: 0Pkt/s
+Latency: 476ms
+Latency: 294ms
+Throughput rate: 0Pkt/s
+Latency: 317ms
+Latency: 324ms
+Throughput rate: 0.522378Pkt/s
+Latency: 380ms
+Latency: 322ms
+Throughput rate: 0Pkt/s
+Latency: 447ms
+Latency: 412ms
+Throughput rate: 0.555415Pkt/s
+Latency: 306ms
+Latency: 278ms
+Throughput rate: 0Pkt/s
+Latency: 447ms
+Latency: 496ms
+Throughput rate: 0.54912Pkt/s
+Latency: 360ms
+Latency: 309ms
+Throughput rate: 0Pkt/s
+Latency: 505ms
+Latency: 430ms
+Throughput rate: 0.481282Pkt/s
+Latency: 279ms
+Latency: 327ms
+Throughput rate: 0Pkt/s
+Latency: 326ms
+Latency: 422ms
+Throughput rate: 0.480704Pkt/s
+Latency: 478ms
+Latency: 282ms
+Throughput rate: 0Pkt/s
+Latency: 454ms
+Latency: 346ms
+Throughput rate: 0Pkt/s
+Latency: 349ms
+Latency: 527ms
+Throughput rate: 0.552364Pkt/s
+Latency: 304ms
+Latency: 291ms
+Throughput rate: 0Pkt/s
+Latency: 505ms
+Latency: 325ms
+Throughput rate: 0Pkt/s
+Latency: 351ms
+Latency: 451ms
+Throughput rate: 0Pkt/s
+Latency: 573ms
+Latency: 294ms
+Throughput rate: 0Pkt/s
+Latency: 332ms
+Latency: 339ms
+Throughput rate: 0.550647Pkt/s
+Latency: 482ms
+Latency: 380ms
+Throughput rate: 0Pkt/s
+Latency: 362ms
+Latency: 297ms
+Throughput rate: 0Pkt/s
+Latency: 327ms
+Latency: 493ms
+Throughput rate: 0.521847Pkt/s
+Latency: 351ms
+Latency: 513ms
+Throughput rate: 0.543706Pkt/s
+Latency: 291ms
+Latency: 495ms
+Throughput rate: 0.543354Pkt/s
+Latency: 301ms
+Latency: 315ms
+Throughput rate: 0.548548Pkt/s
+Latency: 390ms
+Latency: 315ms
+Throughput rate: 0Pkt/s
+Latency: 444ms
+Latency: 333ms
+Throughput rate: 0.547898Pkt/s
+Latency: 385ms
+Latency: 325ms
+Throughput rate: 0Pkt/s
+Latency: 471ms
+Latency: 294ms
+Throughput rate: 0Pkt/s
+Latency: 325ms
+Latency: 432ms
+Throughput rate: 0.51928Pkt/s
+Latency: 352ms
+Latency: 513ms
+Throughput rate: 0.541057Pkt/s
+Latency: 315ms
+Latency: 303ms
+Throughput rate: 0Pkt/s
+Latency: 344ms
+Latency: 331ms
+Throughput rate: 0Pkt/s
+Latency: 362ms
+Latency: 309ms
+Throughput rate: 0Pkt/s
+Latency: 388ms
+Latency: 378ms
+Throughput rate: 0.512159Pkt/s
+Latency: 341ms
+Latency: 349ms
+Throughput rate: 0.544883Pkt/s
+Latency: 474ms
+Latency: 331ms
+Throughput rate: 0.544533Pkt/s
+Latency: 326ms
+Latency: 331ms
+Throughput rate: 0Pkt/s
+Latency: 297ms
+Latency: 344ms
+Throughput rate: 0Pkt/s
+Latency: 320ms
 Latency: 384ms
+Throughput rate: 0.538064Pkt/s
+Latency: 280ms
+Latency: 286ms
+Throughput rate: 0Pkt/s
+Latency: 556ms
+Latency: 275ms
+Throughput rate: 0Pkt/s
+Latency: 291ms
+Latency: 361ms
+Throughput rate: 0Pkt/s
+Latency: 307ms
+Latency: 438ms
+Throughput rate: 0.520328Pkt/s
+Latency: 451ms
+Latency: 369ms
+Throughput rate: 0.541893Pkt/s
+Latency: 312ms
+Latency: 275ms
+Throughput rate: 0Pkt/s
+Latency: 329ms
+Latency: 366ms
+Throughput rate: 0.535788Pkt/s
+Latency: 336ms
+Latency: 330ms
+Throughput rate: 0Pkt/s
+Latency: 416ms
+Latency: 516ms
+Throughput rate: 0.535105Pkt/s
+Latency: 353ms
+Latency: 318ms
+Throughput rate: 0.540254Pkt/s
 Latency: 456ms
+Latency: 336ms
+Throughput rate: 0Pkt/s
+Latency: 326ms
+Latency: 429ms
+Throughput rate: 0.517768Pkt/s
+Latency: 331ms
+Latency: 273ms
+Throughput rate: 0Pkt/s
+Latency: 392ms
+Latency: 385ms
+Throughput rate: 0.538942Pkt/s
+Latency: 300ms
+Latency: 328ms
+Throughput rate: 0Pkt/s
+Latency: 265ms
+Latency: 280ms
+Throughput rate: 0Pkt/s
+Latency: 348ms
+Latency: 403ms
+Throughput rate: 0.532579Pkt/s
+Latency: 332ms
+Latency: 371ms
+Throughput rate: 0.532273Pkt/s
+Latency: 311ms
+Latency: 486ms
+Throughput rate: 0.531938Pkt/s
+Latency: 298ms
+Latency: 439ms
+Throughput rate: 0.531605Pkt/s
+Latency: 326ms
+Latency: 328ms
+Throughput rate: 0.536724Pkt/s
+Latency: 353ms
+Latency: 462ms
+Throughput rate: 0.503905Pkt/s
+Latency: 357ms
+Latency: 408ms
+Throughput rate: 0.509004Pkt/s
+Latency: 359ms
+Latency: 429ms
+Throughput rate: 0.53036Pkt/s
+Latency: 341ms
+Latency: 401ms
+Throughput rate: 0.530049Pkt/s
+Latency: 377ms
+Latency: 351ms
+Throughput rate: 0.535141Pkt/s
+Latency: 324ms
+Latency: 369ms
+Throughput rate: 0.534825Pkt/s
+Latency: 330ms
+Latency: 438ms
+Throughput rate: 0.507522Pkt/s
+Latency: 342ms
+Latency: 858ms
+Throughput rate: 0.528814Pkt/s
+Latency: 454ms
+Latency: 516ms
+Throughput rate: 0.52312Pkt/s
+Latency: 290ms
+Latency: 289ms
+Throughput rate: 0Pkt/s
+Latency: 328ms
+Latency: 477ms
+Throughput rate: 0.500944Pkt/s
+Latency: 422ms
+Latency: 414ms
+Throughput rate: 0.506045Pkt/s
+Latency: 486ms
+Latency: 365ms
+Throughput rate: 0Pkt/s
+Latency: 318ms
+Latency: 503ms
+Throughput rate: 0.526982Pkt/s
+Latency: 425ms
+Latency: 325ms
+Throughput rate: 0.526682Pkt/s
+Latency: 549ms
+Latency: 312ms
+Throughput rate: 0Pkt/s
+Latency: 305ms
+Latency: 347ms
+Throughput rate: 0Pkt/s
+Latency: 333ms
+Latency: 290ms
+Throughput rate: 0Pkt/s
+Latency: 285ms
+Latency: 349ms
+Throughput rate: 0.498671Pkt/s
+Latency: 367ms
+Latency: 331ms
+Throughput rate: 0.530541Pkt/s
+Latency: 295ms
+Latency: 333ms
+Throughput rate: 0Pkt/s
+Latency: 490ms
+Latency: 429ms
+Throughput rate: 0.508531Pkt/s
+Latency: 431ms
+Latency: 322ms
+Throughput rate: 0Pkt/s
+Latency: 486ms
+Latency: 440ms
+Throughput rate: 0.507925Pkt/s
+Latency: 297ms
+Latency: 458ms
+Throughput rate: 0.518324Pkt/s
+Latency: 408ms
+Latency: 342ms
+Throughput rate: 0.52337Pkt/s
+Latency: 371ms
+Latency: 418ms
+Throughput rate: 0.507063Pkt/s
+Latency: 372ms
